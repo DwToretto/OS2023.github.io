@@ -77,30 +77,6 @@ Report requirements: answer in Chinese, PDF file
 
 Corresponding PPTs will be uploaded before the class to ensure the contents up-to-date.
 
-- 01-Overview [Download url](https://pan.baidu.com/s/1LOrqqqiIyfI15ThURy7eUg) (2022/08/30)
+- 01-Overview [Download url](https://pan.baidu.com/s/1LOrqqqiIyfI15ThURy7eUg) (2023/09/04)
 
-- 02-OS Intro [Download url](https://pan.baidu.com/s/1bTZR1PIW1M6x5X8qenNFVg) （2022/09/01）
-
-- 03-Hardware Support [Download url](https://pan.baidu.com/s/1Ye7q2JnOmkXf37QKup96rQ) （2022/09/04）
-
-- 04-Process Concept [Download url](https://pan.baidu.com/s/1g8O84eZssJ41TeOg5u_t1w) （2022/09/09）
-
-- 05-Thread & IPC [Download url](https://pan.baidu.com/s/1fW66Ga-42kzO4Z0O0VanZw)（2022/09/18）
-
-- 06-Process Schedule [Download url](https://pan.baidu.com/s/1INdbChzqmarH1Y2ZFsG6Gg)（2022/09/20）
-
-- 07-Mutual Exclusion [Download url](https://pan.baidu.com/s/1eR-3cKJjgRGrmLw1w0jKwA) (2022/09/29)
-
-- 08-Synchronization [Download url](https://pan.baidu.com/s/1H5BoGRR89HjTCLXW99Opow)(2022/10/14)
-
-- 09-DeadLock [Download url](https://pan.baidu.com/s/14oaQGffAVlbUzdLJvuC-iw)(2022/10/26)
-
-- 10-Real Memory [Download url](https://pan.baidu.com/s/1uavwkgd6agdPUnRl8vILTw)(2022/10/27)
-
-- 11-Virtual Memory [Download url](https://pan.baidu.com/s/1nRSAyZgRCLHSKxf5mP8_4g)(2022/11/04)
-
-- 12-IO [Download url](https://pan.baidu.com/s/15W9rJth340qdj3wpkmKy6Q) (2022/11/25)
-
-- 13-File-1 [Download url](https://pan.baidu.com/s/1eXq9UzyKJJR7hr0cbSQiUA)(2022/11/29)
-
-- 14-File implementation [Download url](https://pan.baidu.com/s/1-PMLfPdraHvM7p2pWpWdaA)(2022/11/29)
+- 02-OS Intro [Download url](https://pan.baidu.com/s/1bTZR1PIW1M6x5X8qenNFVg) （2023/09/05）
