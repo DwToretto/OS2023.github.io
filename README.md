@@ -42,6 +42,13 @@ If you have any questions and suggestions about the course, experiments and teac
 
 * Textbook  [Download url](https://rec.ustc.edu.cn/share/8c0c7760-4aef-11ee-a4c7-13f049ae1dde)  (密码：USTC)
 
+
+### Reference tutorial video
+
+- MIT 6.S081 Operating System Engineer [url](https://www.bilibili.com/video/BV1CK411A7zX/?vd_source=35a71823f06e522e331944235dd749f6)
+
+- Youtube guides [url](https://www.youtube.com/@hhp3)
+
 ### Assignment
 Homework requirements: answer in English or Chinese, PDF file，handwriting.
 
