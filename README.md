@@ -27,7 +27,7 @@ If you have any questions and suggestions about the course, experiments and teac
   Office：Gaoxin Xinzhi Building 406  
   Email：longm@mail.ustc.edu.cn
   
-- **Pin Ye**  
+- **Cheng Ye**  
   
   Email：kyrieye@mail.ustc.edu.cn
 
@@ -40,7 +40,7 @@ If you have any questions and suggestions about the course, experiments and teac
 ### Course Materials
 
 
-* Textbook  [Download url](https://rec.ustc.edu.cn/share/aededfe0-4ae5-11ee-bee6-2bb2d1e3fa89)  (2023.09.04)
+* Textbook  [Download url](https://rec.ustc.edu.cn/share/e55fa810-4ae7-11ee-acb3-f7d6d4442022)  (密码：USTC)
 * Supplementary materials and extended reading  [Download url](https://rec.ustc.edu.cn/share/2520d480-2753-11ed-a521-2f5fcd9031e9) 
 
 ### Assignment
