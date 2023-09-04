@@ -39,6 +39,7 @@ If you have any questions and suggestions about the course, experiments and teac
 
 
 * Textbook  [Download url](https://rec.ustc.edu.cn/share/8c0c7760-4aef-11ee-a4c7-13f049ae1dde)  (密码：USTC)
+* Reading Material  [Download url]()  (密码：USTC)
 
 
 ### Reference tutorial video
