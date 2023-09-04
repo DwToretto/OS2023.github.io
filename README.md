@@ -29,12 +29,10 @@ If you have any questions and suggestions about the course, experiments and teac
   
 - **Pin Ye**  
   
-  Office：Gaoxin Xinzhi Building 405  
   Email：kyrieye@mail.ustc.edu.cn
 
-  - **Hui Qian**  
+- **Hui Qian**  
   
-  Office：Gaoxin Xinzhi Building 405  
   Email：qh200836@mail.ustc.edu.cn
 
 
