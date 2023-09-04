@@ -41,46 +41,21 @@ If you have any questions and suggestions about the course, experiments and teac
 
 
 * Textbook  [Download url](https://rec.ustc.edu.cn/share/e55fa810-4ae7-11ee-acb3-f7d6d4442022)  (密码：USTC)
-* Supplementary materials and extended reading  [Download url](https://rec.ustc.edu.cn/share/2520d480-2753-11ed-a521-2f5fcd9031e9) 
 
 ### Assignment
-Homework requirements: answer in English, PDF file，handwriting.
+Homework requirements: answer in English or Chinese, PDF file，handwriting.
 
 Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next week after the assignment. It is not allowed to submit the homework for any reason after the deadline. If there are special circumstances, please contact the TAs before the deadline.
 
-- P103: Problems 2.1, 2.2, 2.3, 2.4, 2.6 (8th Edition) [Homework url](https://lyh02.top/Operating-System-2022/homework/1/) (2022.09.02)
-  - ddl：2022.09.18 23.59 
-- P37: Problems 1.3, 1.4, 1.7, 1.8, 1.9 (8th Edition)[Homework url](https://lyh02.top/Operating-System-2022/homework/2/) (2022.09.07) 
-  - ddl：2022.09.18 23.59 
-- P149: Problems 3.3, 3.5, 3.9 (8th Edition) [Homework url](https://lyh02.top/Operating-System-2022/homework/3/) (2022.09.15) 
-  - ddl：2022.09.25 23.59 
-- P195: Problems 4.5 (8th Edition)   P428: Problems 9.1, 9.2, 9.3 (8th Edition) [Homework url](https://lyh02.top/Operating-System-2022/homework/4/) (2022.10.02) 
-  - ddl：2022.10.09 23.59 
-- ppt [Homework url](https://lyh02.top/Operating-System-2022/homework/5/) (2022.10.09) 
-  - ddl：2022.10.16 23.59 
-- P249: Problems 5.5, 5.6, 5.12, 5.13, 5.14, 5.15, 5.16 (8th Edition) [Homework url](https://lyh02.top/Operating-System-2022/homework/6/) (2022.10.20)
-	- ddl: 2022.10.30 23:59
-- P302: Problems 6.5, 6.11, 6.15, 6.16, 6.18 (8th Edition), [Homework url](https://lyh02.top/Operating-System-2022/homework/7/) (2022.10.29)
-	- ddl: 2022.11.06 23:59
-- P331: Problems 7.5, 7.6, 7.8, 7.9 (8th Edition), [Homework url](https://lyh02.top/Operating-System-2022/homework/8/) (2022.11.4)
-	- ddl: 2022.11.13 23:59
-- ppt [Homework url](https://lyh02.top/Operating-System-2022/homework/9/) (2022.11.11)
-	- ddl: 2022.11.20 23:59
-- P332: Problems 7.12, 7.14, 7.15, P392: Problems 8.1, 8.4, 8.5 (8th Edition)  [Homework url](https://lyh02.top/Operating-System-2022/homework/10/) (2022.11.18)
-  - ddl: 2022.12.4 23:59
-- P520: Problems 11.1, 11.2, 11.3 (8th Edition)  [Homework url](https://lyh02.top/Operating-System-2022/homework/11/) (2022.12.02)
-  - ddl: 2022.12.11 23:59
-- P569: Problems 12.1, 12.2, 12.3, 12.13 (8th Edition) [Homework url](https://lyh02.top/Operating-System-2022/homework/12/) (2022.12.09)
-  - ddl: 2022.12.18 23:59
 
 
 
 
 ### Assignment Answer
-* Answer ：[Download url](https://pan.baidu.com/s/1to5N9Gk8WbsD62IRAT8HLA )（2022.12.31）
+
 
 ### Experiment MaterialsＯ(≧▽≦)Ｏ 
-* Textbook ：[Download url](https://pan.baidu.com/s/1XV7qRyYJCEDuwbWd_HDj8A)  （2022.09.12）
+* Textbook ：[Download url](https://rec.ustc.edu.cn/share/71cc3a80-4ae9-11ee-aab0-a39894eb1637)   (密码：USTC)
 * Supplementary materials ：[url](https://lyh02.top/Operating-System-2022/lab/0/) (2022.09.13) 
 * Debug materials ：[url](https://lyh02.top/Operating-System-2022/lab/debug/) (2022.09.19) 
 
