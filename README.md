@@ -77,8 +77,7 @@ Report requirements: answer in Chinese, PDF file
 
 ### Slides(*´・ｖ・)
 
-Corresponding PPTs will be uploaded before the class to ensure the contents up-to-date.
+Corresponding PPTs will be uploaded before the class to ensure the contents up-to-date. (密码：USTC)
 
-- 01-Overview [Download url](https://pan.baidu.com/s/1LOrqqqiIyfI15ThURy7eUg) (2023/09/04)
+- 01-Overview [Download url](https://rec.ustc.edu.cn/share/ad47c420-4b22-11ee-b3f8-a1d35672faef) (2023/09/04)
 
-- 02-OS Intro [Download url](https://pan.baidu.com/s/1bTZR1PIW1M6x5X8qenNFVg) （2023/09/05）
