@@ -1,4 +1,4 @@
-#      The 2023 Fall Operating System Course Homepage(￣▽￣)／
+#      The 2023 Fall Operating System Course Homepage
 ###    We will put all the materials required for the course on this page, and you can download them according to your own needs.
 
 ### Course Introduction
@@ -38,15 +38,15 @@ If you have any questions and suggestions about the course, experiments and teac
 ### Course Materials
 
 
-* Textbook  [Download url](https://rec.ustc.edu.cn/share/8c0c7760-4aef-11ee-a4c7-13f049ae1dde)  (密码：USTC)
-* Reading Material  [Download url]()  (密码：USTC)
+* Textbook  [Download url](https://rec.ustc.edu.cn/share/23156250-4b28-11ee-8339-d32eb8274c25) 
+* Reading Material  [Download url](https://rec.ustc.edu.cn/share/dca93f40-4b28-11ee-830f-a97741ce83d2) 
 
 
 ### Reference tutorial video
 
 - MIT 6.S081 Operating System Engineer [url](https://www.bilibili.com/video/BV1CK411A7zX/?vd_source=35a71823f06e522e331944235dd749f6)
 
-- Youtube guides [url](https://www.youtube.com/@hhp3)
+- Youtube Guides [url](https://www.youtube.com/@hhp3)
 
 ### Assignment
 Homework requirements: answer in English or Chinese, PDF file，handwriting.
@@ -56,8 +56,8 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
 
 
 
-### Experiment MaterialsＯ(≧▽≦)Ｏ 
-* GuideBook ：[Download url](https://rec.ustc.edu.cn/share/71cc3a80-4ae9-11ee-aab0-a39894eb1637)   (密码：USTC)
+### Experiment Materials
+* GuideBook ：[Download url](https://rec.ustc.edu.cn/share/45f38720-4b28-11ee-bc57-458167fe70f2) 
 
 
 
@@ -75,9 +75,9 @@ Report requirements: answer in Chinese, PDF file
 
 
 
-### Slides(*´・ｖ・)
+### Slides
 
-Corresponding PPTs will be uploaded before the class to ensure the contents up-to-date. (密码：USTC)
+Corresponding PPTs will be uploaded before the class to ensure the contents up-to-date.
 
-- 01-Overview [Download url](https://rec.ustc.edu.cn/share/ad47c420-4b22-11ee-b3f8-a1d35672faef) (2023/09/04)
+- 01-Overview [Download url](https://rec.ustc.edu.cn/share/841569e0-4b28-11ee-ad84-b954ff0de477) (2023/09/04)
 
