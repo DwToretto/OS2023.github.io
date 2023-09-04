@@ -56,8 +56,6 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
 
 ### Experiment MaterialsＯ(≧▽≦)Ｏ 
 * Textbook ：[Download url](https://rec.ustc.edu.cn/share/71cc3a80-4ae9-11ee-aab0-a39894eb1637)   (密码：USTC)
-* Supplementary materials ：[url](https://lyh02.top/Operating-System-2022/lab/0/) (2022.09.13) 
-* Debug materials ：[url](https://lyh02.top/Operating-System-2022/lab/debug/) (2022.09.19) 
 
 
 
@@ -68,28 +66,11 @@ Report requirements: answer in Chinese, PDF file
 
 | lab            | start time | ddl        |
 | -------------- | ---------- | ---------- |
-| System calls    | 2022.10.10 | 2022.10.23 |
-| Trap           | 2022.10.17 | 2022.10.30 |
-| Multithreading | 2022.10.31 | 2022.11.13 |
-| Page tables    | 2022.11.14 | 2022.11.27 |
-| Locks          | 2022.11.28 | 2023.01.02 |
-| File system    | 2022.11.29 | 2023.01.02 |
+| System calls    |  |  |
 
-- Lab1-System calls [materials](https://lyh02.top/Operating-System-2022/lab/Lab1/) (2022.10.09)
-- Lab2-Trap   [materials](https://lyh02.top/Operating-System-2022/lab/Lab2/) (2022.10.17)
-- Lab3-Multithreading   [materials](https://lyh02.top/Operating-System-2022/lab/Lab3/) (2022.10.31)
-- Lab4-Page tables   [materials](https://lyh02.top/Operating-System-2022/lab/Lab4/) (2022.11.14)
-- Lab5-Locks   [materials](https://lyh02.top/Operating-System-2022/lab/Lab5/) (2022.11.28)
-- Lab6-File system   [materials](https://lyh02.top/Operating-System-2022/lab/Lab6/) (2022.11.29)
+- Lab1-System calls 
 
-### Date of experiment Course Guidance 
 
-| Date      | Location |
-| ----------- | ----------- |
-| Oct 22 14:30-17:30      | 电1楼2厅       |
-| Nov 05 14:30-17:30   | 电1楼2厅        |
-| Nov 19 14:30-17:30   | 电1楼2厅        |
-| Dec 03 14:30-17:30   | 电1楼2厅        |
 
 ### Reference tutorial video
 
