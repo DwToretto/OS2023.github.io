@@ -19,12 +19,10 @@ If you have any questions and suggestions about the course, experiments and teac
 #### TAs
 - **Chengwei Tong**  
   
-  Office：Gaoxin Xinzhi Building 406  
   Email：cwtong@mail.ustc.edu.cn 
 
 - **Long Ma**  
   
-  Office：Gaoxin Xinzhi Building 406  
   Email：longm@mail.ustc.edu.cn
   
 - **Cheng Ye**  
