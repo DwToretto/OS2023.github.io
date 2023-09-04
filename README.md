@@ -40,7 +40,7 @@ If you have any questions and suggestions about the course, experiments and teac
 ### Course Materials
 
 
-* Textbook  [Download url](https://rec.ustc.edu.cn/share/e55fa810-4ae7-11ee-acb3-f7d6d4442022)  (密码：USTC)
+* Textbook  [Download url](https://rec.ustc.edu.cn/share/8c0c7760-4aef-11ee-a4c7-13f049ae1dde)  (密码：USTC)
 
 ### Assignment
 Homework requirements: answer in English or Chinese, PDF file，handwriting.
