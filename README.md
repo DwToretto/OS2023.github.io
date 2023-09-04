@@ -72,11 +72,6 @@ Report requirements: answer in Chinese, PDF file
 
 
 
-### Reference tutorial video
-
-- Hardware knowledge and OS basic tutorial video [Download url](https://rec.ustc.edu.cn/share/6d8b28d0-2753-11ed-ad15-3b3a2798a624)
-
-- Study guides for this course [Download url](https://rec.ustc.edu.cn/share/b70c6af0-2753-11ed-b01d-7bea9482e54e)
 
 ### Slides(*´・ｖ・)
 
