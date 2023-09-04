@@ -50,10 +50,6 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
 
 
 
-
-### Assignment Answer
-
-
 ### Experiment MaterialsＯ(≧▽≦)Ｏ 
 * Textbook ：[Download url](https://rec.ustc.edu.cn/share/71cc3a80-4ae9-11ee-aab0-a39894eb1637)   (密码：USTC)
 
