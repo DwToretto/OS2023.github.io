@@ -77,7 +77,7 @@ Report requirements: answer in Chinese, PDF file
 
 ### Slides
 
-Corresponding PPTs will be uploaded before the class to ensure the contents up-to-date.
+Corresponding PPTs will be uploaded after the class to ensure the contents up-to-date.
 
 - 01-Overview [Download url](https://rec.ustc.edu.cn/share/841569e0-4b28-11ee-ad84-b954ff0de477) (2023/09/04)
 
