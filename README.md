@@ -85,3 +85,8 @@ Corresponding PPTs will be uploaded after the class to ensure the contents up-to
 
 - 01-Overview [Download url](https://rec.ustc.edu.cn/share/841569e0-4b28-11ee-ad84-b954ff0de477) (2023/09/04)
 
+- 02-OS Intro [Download url](https://rec.ustc.edu.cn/share/dd57f8c0-50af-11ee-a532-1b2fdaeaf290) （2022/09/11）
+
+- 03-Hardware Support [Download url](https://rec.ustc.edu.cn/share/f637c6f0-50af-11ee-acc2-2f6df62439bf) （2022/09/11）
+- 
+- 04-Process Concept [Download url](https://rec.ustc.edu.cn/share/74005d60-50b0-11ee-8d89-af03612c4101) （2022/09/11）
