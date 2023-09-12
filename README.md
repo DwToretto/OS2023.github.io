@@ -68,7 +68,7 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
 Report requirements: answer in Chinese, PDF file
 
 Here are lab environment configuration guide(Either one will do)
-- VLAB Environment Configuration Guide [Download url](https://rec.ustc.edu.cn/share/49bbea50-5067-11ee-96fb-7d13902acb1d) (2023/09/11)
+- VLAB Environment Configuration Guide (Recommended) [Download url](https://rec.ustc.edu.cn/share/49bbea50-5067-11ee-96fb-7d13902acb1d) (2023/09/11)
 - Ubuntu Environment Configuration Guide [Download url](https://rec.ustc.edu.cn/share/e36bf690-5067-11ee-8bfc-bdbcf8d17ac2) (2023/09/11)
 
 | lab            | start time | ddl        |
