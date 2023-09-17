@@ -92,3 +92,5 @@ Corresponding PPTs will be uploaded after the class to ensure the contents up-to
 - 03-Hardware Support [Download url](https://rec.ustc.edu.cn/share/f637c6f0-50af-11ee-acc2-2f6df62439bf) （2022/09/11）
 
 - 04-Process Concept [Download url](https://rec.ustc.edu.cn/share/74005d60-50b0-11ee-8d89-af03612c4101) （2022/09/11）
+
+- 05-Thread & IPC [Download url](https://rec.ustc.edu.cn/share/b17cd0d0-5567-11ee-af3a-6b9266328fa2) （2022/09/17）
