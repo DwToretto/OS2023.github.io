@@ -66,7 +66,7 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
 
 ### Experiment Assignment(TBD)
 
-Report requirements: answer in Chinese, PDF file
+Report requirements: answer in Chinese, PDF file. [template](https://rec.ustc.edu.cn/share/e494f420-5618-11ee-bec8-756d9dbaace5) 
 
 Here are lab environment configuration guide(Either one will do)
 - VLAB Environment Configuration Guide (Recommended) [Download url](https://rec.ustc.edu.cn/share/49bbea50-5067-11ee-96fb-7d13902acb1d) (2023/09/11)
@@ -74,9 +74,11 @@ Here are lab environment configuration guide(Either one will do)
 
 | lab            | start time | ddl        |
 | -------------- | ---------- | ---------- |
-| Utils    |  |  |
+| Utils    | 2023.09.18 | 2023.10.08 |
+| System calls    | 2023.09.18 | 2023.10.08 |
 
-- Lab1-Utils 
+- Lab1-Utils [materials](https://rec.ustc.edu.cn/share/287ef490-5618-11ee-ac18-952e64a6481e) (2023.09.18)
+- Lab2-System calls [materials](https://rec.ustc.edu.cn/share/623ad4d0-5618-11ee-a214-3fb4bd8684eb) (2023.09.18)
 
 
 
