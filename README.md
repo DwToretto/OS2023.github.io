@@ -74,9 +74,9 @@ Here are lab environment configuration guide(Either one will do)
 
 | lab            | start time | ddl        |
 | -------------- | ---------- | ---------- |
-| System calls    |  |  |
+| Utils    |  |  |
 
-- Lab1-System calls 
+- Lab1-Utils 
 
 
 
