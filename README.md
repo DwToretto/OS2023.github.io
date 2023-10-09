@@ -59,7 +59,7 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
   - ddl：2023.09.24 23.59
 - Homework 3 [Homework url](https://rec.ustc.edu.cn/share/1ea541a0-56e3-11ee-8083-951ee1ef6027) (2023.09.19)
   - ddl：2023.10.01 23.59
-- Homework 4 [Homework url](https://rec.ustc.edu.cn/share/f3f769f0-64df-11ee-9e4c-6b357eec43d8) (2023.10.07)
+- Homework 4 [Homework url](https://rec.ustc.edu.cn/share/f3f769f0-64df-11ee-9e4c-6b357eec43d8) (2023.10.08)
   - ddl：2023.10.22 23.59
 
 ### Experiment Materials
@@ -102,3 +102,5 @@ Corresponding PPTs will be uploaded after the class to ensure the contents up-to
 - 05-Thread & IPC [Download url](https://rec.ustc.edu.cn/share/b17cd0d0-5567-11ee-af3a-6b9266328fa2) （2022/09/17）
 
 - 06-Process Schedule [Download url](https://rec.ustc.edu.cn/share/fa434a30-5ab9-11ee-9916-b3538fb04005) （2022/09/24）
+
+- 07-Mutual Exclusion [Download url](https://rec.ustc.edu.cn/share/1e836c00-6674-11ee-a52c-772473dfef22) （2022/10/09）
