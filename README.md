@@ -104,3 +104,5 @@ Corresponding PPTs will be uploaded after the class to ensure the contents up-to
 - 06-Process Schedule [Download url](https://rec.ustc.edu.cn/share/fa434a30-5ab9-11ee-9916-b3538fb04005) （2022/09/24）
 
 - 07-Mutual Exclusion [Download url](https://rec.ustc.edu.cn/share/1e836c00-6674-11ee-a52c-772473dfef22) （2022/10/09）
+
+- 08-Synchronization [Download url](https://rec.ustc.edu.cn/share/cf9b3c20-6d73-11ee-9ffe-9b1238a1d5d6) （2022/10/18）
