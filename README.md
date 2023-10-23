@@ -82,9 +82,11 @@ Here are lab environment configuration guide(Either one will do)
 | -------------- | ---------- | ---------- |
 | Utils    | 2023.09.18 | 2023.10.08 |
 | System calls    | 2023.09.18 | 2023.10.22 |
+| Multithreading    | 2023.10.23 | 2023.11.05 |
 
 - Lab1-Utils [materials](https://rec.ustc.edu.cn/share/287ef490-5618-11ee-ac18-952e64a6481e) (2023.09.18)
 - Lab2-System calls [materials](https://rec.ustc.edu.cn/share/623ad4d0-5618-11ee-a214-3fb4bd8684eb) (2023.09.18)
+- Lab3-Multithreading [materials](https://rec.ustc.edu.cn/share/1beac6a0-71a7-11ee-b482-e3978e7d1399) (2023.10.23)
 
 
 
