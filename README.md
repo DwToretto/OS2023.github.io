@@ -63,6 +63,8 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
   - ddl：2023.10.22 23.59
 - Homework 5 [Homework url](https://rec.ustc.edu.cn/share/c7426220-6e25-11ee-becd-7b15b7c6e851) (2023.10.19)
   - ddl：2023.10.29 23.59
+- Homework 6 [Homework url](https://rec.ustc.edu.cn/share/d0b97b10-7236-11ee-866d-83ec6f6a02ec) (2023.10.24)
+  - ddl：2023.11.05 23.59
 
 ### Experiment Materials
 * GuideBook ：[Download url](https://rec.ustc.edu.cn/share/45f38720-4b28-11ee-bc57-458167fe70f2) 
@@ -110,3 +112,5 @@ Corresponding PPTs will be uploaded after the class to ensure the contents up-to
 - 07-Mutual Exclusion [Download url](https://rec.ustc.edu.cn/share/1e836c00-6674-11ee-a52c-772473dfef22) （2022/10/09）
 
 - 08-Synchronization [Download url](https://rec.ustc.edu.cn/share/cf9b3c20-6d73-11ee-9ffe-9b1238a1d5d6) （2022/10/18）
+
+- 09-Deadlock [Download url](https://rec.ustc.edu.cn/share/f6c64e90-7236-11ee-8172-75317dbd6856) （2022/10/24）
