@@ -99,18 +99,20 @@ Corresponding PPTs will be uploaded after the class to ensure the contents up-to
 
 - 01-Overview [Download url](https://rec.ustc.edu.cn/share/841569e0-4b28-11ee-ad84-b954ff0de477) (2023/09/04)
 
-- 02-OS Intro [Download url](https://rec.ustc.edu.cn/share/dd57f8c0-50af-11ee-a532-1b2fdaeaf290) （2022/09/11）
+- 02-OS Intro [Download url](https://rec.ustc.edu.cn/share/dd57f8c0-50af-11ee-a532-1b2fdaeaf290) （2023/09/11）
 
-- 03-Hardware Support [Download url](https://rec.ustc.edu.cn/share/f637c6f0-50af-11ee-acc2-2f6df62439bf) （2022/09/11）
+- 03-Hardware Support [Download url](https://rec.ustc.edu.cn/share/f637c6f0-50af-11ee-acc2-2f6df62439bf) （2023/09/11）
 
-- 04-Process Concept [Download url](https://rec.ustc.edu.cn/share/74005d60-50b0-11ee-8d89-af03612c4101) （2022/09/11）
+- 04-Process Concept [Download url](https://rec.ustc.edu.cn/share/74005d60-50b0-11ee-8d89-af03612c4101) （2023/09/11）
 
-- 05-Thread & IPC [Download url](https://rec.ustc.edu.cn/share/b17cd0d0-5567-11ee-af3a-6b9266328fa2) （2022/09/17）
+- 05-Thread & IPC [Download url](https://rec.ustc.edu.cn/share/b17cd0d0-5567-11ee-af3a-6b9266328fa2) （2023/09/17）
 
-- 06-Process Schedule [Download url](https://rec.ustc.edu.cn/share/fa434a30-5ab9-11ee-9916-b3538fb04005) （2022/09/24）
+- 06-Process Schedule [Download url](https://rec.ustc.edu.cn/share/fa434a30-5ab9-11ee-9916-b3538fb04005) （2023/09/24）
 
-- 07-Mutual Exclusion [Download url](https://rec.ustc.edu.cn/share/1e836c00-6674-11ee-a52c-772473dfef22) （2022/10/09）
+- 07-Mutual Exclusion [Download url](https://rec.ustc.edu.cn/share/1e836c00-6674-11ee-a52c-772473dfef22) （2023/10/09）
 
-- 08-Synchronization [Download url](https://rec.ustc.edu.cn/share/cf9b3c20-6d73-11ee-9ffe-9b1238a1d5d6) （2022/10/18）
+- 08-Synchronization [Download url](https://rec.ustc.edu.cn/share/cf9b3c20-6d73-11ee-9ffe-9b1238a1d5d6) （2023/10/18）
 
-- 09-Deadlock [Download url](https://rec.ustc.edu.cn/share/f6c64e90-7236-11ee-8172-75317dbd6856) （2022/10/24）
+- 09-Deadlock [Download url](https://rec.ustc.edu.cn/share/f6c64e90-7236-11ee-8172-75317dbd6856) （2023/10/24）
+
+- 10-Real Memory [Download url](https://rec.ustc.edu.cn/share/a2a4b920-7713-11ee-89c1-458e046142bc) （2023/10/30）
