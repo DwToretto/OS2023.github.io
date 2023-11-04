@@ -65,6 +65,8 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
   - ddl：2023.10.29 23.59
 - Homework 6 [Homework url](https://rec.ustc.edu.cn/share/d0b97b10-7236-11ee-866d-83ec6f6a02ec) (2023.10.24)
   - ddl：2023.11.05 23.59
+- Homework 7 [Homework url](https://rec.ustc.edu.cn/share/f5deadd0-7ac2-11ee-8231-39b8a8bf9d9a) (2023.11.04)
+  - ddl：2023.11.19 23.59
 
 ### Experiment Materials
 * GuideBook ：[Download url](https://rec.ustc.edu.cn/share/45f38720-4b28-11ee-bc57-458167fe70f2) 
