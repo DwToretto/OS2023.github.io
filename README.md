@@ -87,6 +87,9 @@ Here are lab environment configuration guide(Either one will do)
 | Utils    | 2023.09.18 | 2023.10.08 |
 | System calls    | 2023.09.18 | 2023.10.22 |
 | Multithreading    | 2023.10.23 | 2023.11.05 |
+| Locks    | 2023.11.06 | 2023.11.19 |
+| Page table    | 2023.11.20 | 2023.12.03 |
+| File system    | 2023.12.04 | 2023.12.17 |
 
 - Lab1-Utils [materials](https://rec.ustc.edu.cn/share/287ef490-5618-11ee-ac18-952e64a6481e) (2023.09.18)
 
