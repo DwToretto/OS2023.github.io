@@ -107,7 +107,7 @@ Here are lab environment configuration guide(Either one will do)
 
 Corresponding PPTs will be uploaded after the class to ensure the contents up-to-date.
 
-2022 version[Download url](https://rec.ustc.edu.cn/share/26971480-7c99-11ee-bbf9-abe62746b0ba) (2023/11/06)
+The 2022 version is for preview purposes only. Please refer to the latest PPT for review and homework [Download url](https://rec.ustc.edu.cn/share/26971480-7c99-11ee-bbf9-abe62746b0ba)
 
 - 01-Overview [Download url](https://rec.ustc.edu.cn/share/841569e0-4b28-11ee-ad84-b954ff0de477) (2023/09/04)
 
