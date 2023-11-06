@@ -91,6 +91,9 @@ Here are lab environment configuration guide(Either one will do)
 - Lab1-Utils [materials](https://rec.ustc.edu.cn/share/287ef490-5618-11ee-ac18-952e64a6481e) (2023.09.18)
 - Lab2-System calls [materials](https://rec.ustc.edu.cn/share/623ad4d0-5618-11ee-a214-3fb4bd8684eb) (2023.09.18)
 - Lab3-Multithreading [materials](https://rec.ustc.edu.cn/share/1beac6a0-71a7-11ee-b482-e3978e7d1399) (2023.10.23)
+- Lab4-Locks [materials](https://rec.ustc.edu.cn/share/b9a91530-7c98-11ee-84ce-1556c07f85e2) (2023.11.06)
+- Lab5-Page table [materials](https://rec.ustc.edu.cn/share/cd299c80-7c98-11ee-9d9b-5bf666ee7751) (2023.11.06)
+- Lab6-File system [materials](https://rec.ustc.edu.cn/share/df0e9cc0-7c98-11ee-b4dc-bb029536a51f) (2023.11.06)
 
 
 
@@ -98,6 +101,7 @@ Here are lab environment configuration guide(Either one will do)
 ### Slides
 
 Corresponding PPTs will be uploaded after the class to ensure the contents up-to-date.
+2022 version[Download url](https://rec.ustc.edu.cn/share/26971480-7c99-11ee-bbf9-abe62746b0ba) (2023/11/06)
 
 - 01-Overview [Download url](https://rec.ustc.edu.cn/share/841569e0-4b28-11ee-ad84-b954ff0de477) (2023/09/04)
 
@@ -118,3 +122,5 @@ Corresponding PPTs will be uploaded after the class to ensure the contents up-to
 - 09-Deadlock [Download url](https://rec.ustc.edu.cn/share/f6c64e90-7236-11ee-8172-75317dbd6856) （2023/10/24）
 
 - 10-Real Memory [Download url](https://rec.ustc.edu.cn/share/a2a4b920-7713-11ee-89c1-458e046142bc) （2023/10/30）
+
+- 11-Virtual Memory [Download url](https://rec.ustc.edu.cn/share/0dfb8260-7c98-11ee-b83a-49319019a76e) （2023/11/06）
