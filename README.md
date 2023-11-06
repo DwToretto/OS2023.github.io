@@ -73,7 +73,6 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
 
 
 
-
 ### Experiment Assignment(TBD)
 
 Report requirements: answer in Chinese, PDF file. [template](https://rec.ustc.edu.cn/share/e494f420-5618-11ee-bec8-756d9dbaace5) 
@@ -97,12 +96,11 @@ Here are lab environment configuration guide(Either one will do)
   
 - Lab3-Multithreading [materials](https://rec.ustc.edu.cn/share/1beac6a0-71a7-11ee-b482-e3978e7d1399) (2023.10.23)
   
-- Lab4-Locks [materials](https://rec.ustc.edu.cn/share/b9a91530-7c98-11ee-84ce-1556c07f85e2) (2023.11.06)
+- Lab4-Locks [materials](https://rec.ustc.edu.cn/share/9c6effd0-7c9b-11ee-8369-b7ac4637c9ab) (2023.11.06)
   
-- Lab5-Page table [materials](https://rec.ustc.edu.cn/share/cd299c80-7c98-11ee-9d9b-5bf666ee7751) (2023.11.06)
+- Lab5-Page table [materials](https://rec.ustc.edu.cn/share/b23690c0-7c9b-11ee-89dc-178b40c91fab) (2023.11.06)
   
-- Lab6-File system [materials](https://rec.ustc.edu.cn/share/df0e9cc0-7c98-11ee-b4dc-bb029536a51f) (2023.11.06)
-
+- Lab6-File system [materials](https://rec.ustc.edu.cn/share/c36528e0-7c9b-11ee-be34-837baf888b05) (2023.11.06)
 
 
 
