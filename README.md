@@ -67,6 +67,10 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
   - ddl：2023.11.05 23.59
 - Homework 7 [Homework url](https://rec.ustc.edu.cn/share/f5deadd0-7ac2-11ee-8231-39b8a8bf9d9a) (2023.11.04)
   - ddl：2023.11.19 23.59
+- Homework 8 [Homework url](https://rec.ustc.edu.cn/share/773cb1c0-88ff-11ee-9559-5d68b4911407) (2023.11.22)
+  - ddl：2023.12.03 23.59
+- Homework 9 [Homework url](https://rec.ustc.edu.cn/share/929cecb0-88ff-11ee-9a91-937067672f84) (2023.11.22)
+  - ddl：2023.12.10 23.59
 
 ### Experiment Materials
 * GuideBook ：[Download url](https://rec.ustc.edu.cn/share/45f38720-4b28-11ee-bc57-458167fe70f2) 
@@ -130,4 +134,4 @@ The 2022 version [Download url](https://rec.ustc.edu.cn/share/26971480-7c99-11ee
 
 - 10-Real Memory [Download url](https://rec.ustc.edu.cn/share/a2a4b920-7713-11ee-89c1-458e046142bc) （2023/10/30）
 
-- 11-Virtual Memory [Download url](https://rec.ustc.edu.cn/share/0dfb8260-7c98-11ee-b83a-49319019a76e) （2023/11/06）
+- 11-Virtual Memory [Download url](https://rec.ustc.edu.cn/share/1581fbc0-88ff-11ee-96c0-b30c051248f6) （2023/11/22）
