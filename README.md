@@ -137,3 +137,5 @@ The 2022 version [Download url](https://rec.ustc.edu.cn/share/26971480-7c99-11ee
 - 10-Real Memory [Download url](https://rec.ustc.edu.cn/share/a2a4b920-7713-11ee-89c1-458e046142bc) （2023/10/30）
 
 - 11-Virtual Memory [Download url](https://rec.ustc.edu.cn/share/1581fbc0-88ff-11ee-96c0-b30c051248f6) （2023/11/22）
+
+- 12-IO [Download url](https://rec.ustc.edu.cn/share/3d3bb830-9343-11ee-b457-4fe99e99990a) （2023/12/05, 作业以23版为准）
