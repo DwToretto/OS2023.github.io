@@ -110,7 +110,9 @@ Here are lab environment configuration guide(Either one will do)
   
 - Lab6-File system [materials](https://rec.ustc.edu.cn/share/c36528e0-7c9b-11ee-be34-837baf888b05) (2023.11.06)
 
+### 习题课
 
+PPT and Screen recording [Download url](https://rec.ustc.edu.cn/share/6debc7f0-9e46-11ee-9be0-dbbf8e21bf85)
 
 ### Slides
 
