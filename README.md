@@ -53,6 +53,8 @@ Homework requirements: answer in English or Chinese, PDF file，handwriting.
 
 Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next week after the assignment. It is not allowed to submit the homework for any reason after the deadline. If there are special circumstances, please contact the TAs before the deadline.
 
+Homework Answers [Download url](https://rec.ustc.edu.cn/share/05207940-a32c-11ee-ac2e-2394a0f4150d) (2023.12.25)
+
 - Homework 1 [Homework url](https://rec.ustc.edu.cn/share/11e3dc90-515d-11ee-b3b3-c5275b9aeb92) (2023.09.12)
   - ddl：2023.09.24 23.59
 - Homework 2 [Homework url](https://rec.ustc.edu.cn/share/34d64a60-5151-11ee-a64c-51fd2f68543e) (2023.09.11)
